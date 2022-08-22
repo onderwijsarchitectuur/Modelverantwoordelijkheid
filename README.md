@@ -1,2 +1,1 @@
-# modelverantwoordelijkheid
-Model voor het 
+Ideeën voor het ontwikkelen en beheren van gegevensmodellen. 
